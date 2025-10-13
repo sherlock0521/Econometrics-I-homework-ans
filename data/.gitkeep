@@ -1,0 +1,7 @@
+data/
+ ├─ hw01/
+ │   └─ sample.csv
+ ├─ hw02/
+ │   └─ A_matrix.txt
+ └─ hw03/
+     └─ ...
