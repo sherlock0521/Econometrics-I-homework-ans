@@ -58,9 +58,3 @@ Tasks:
 
 
 
-s_xx <- t(X) %*% M %*% X
-s_xy <- t(X) %*% M %*% Y
-
-var_num <- as.numeric(s_xx)
-cov_num <- as.numeric(s_xy)
-
