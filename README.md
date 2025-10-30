@@ -58,8 +58,13 @@ Tasks:
 ## 📘 Homework 3 — Square Root of a Matrix
 
 Given the matrix
-      [ 5   1 ]
-  A = [ 2   4 ]
+  \[
+A = 
+\begin{bmatrix}
+5 & 2 \\
+1 & 4 
+\end{bmatrix}
+\]
 
 Tasks:
 1. Use eigen decomposition to express:
