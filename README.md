@@ -55,6 +55,22 @@ Tasks:
 
 ---
 
+## 📘 Homework 3 — Square Root of a Matrix
 
+Given the matrix
+      [ 5   1 ]
+  A = [ 2   4 ]
 
+Tasks:
+1. Use eigen decomposition to express:
+       A = X Λ X⁻¹
+
+2. Take the square roots of the eigenvalues to construct:
+       Λ^(1/2) = diag( √λ₁ , √λ₂ )
+
+3. Compute the matrix square root using:
+       A^(1/2) = X Λ^(1/2) X⁻¹
+
+4. Verify that:
+       A^(1/2) %*% A^(1/2) = A
 
