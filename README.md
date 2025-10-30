@@ -57,6 +57,7 @@ Tasks:
 
 ## 📘 Homework 3 — Square Root of a Matrix
 
+### 題目說明
 Given the matrix
   \[
 A = 
@@ -78,4 +79,17 @@ Tasks:
 
 4. Verify that:
        A^(1/2) %*% A^(1/2) = A
+
+---
+
+## 📗 Homework 4 — Create a 3×3 Positive Definite Matrix with Negative Elements
+
+### 題目說明
+Design a **3×3 matrix** that satisfies the following two conditions:
+
+1. The matrix must **contain at least one negative element**.  
+2. The matrix must be **positive definite**.
+
+
+
 
