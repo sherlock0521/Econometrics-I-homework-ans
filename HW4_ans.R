@@ -1,0 +1,1 @@
+# see Lecture notes Ch.1 Linear Algebra p50 Result (c)
